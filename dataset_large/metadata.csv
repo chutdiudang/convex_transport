@@ -1,0 +1,2 @@
+dataset_size,m_warehouses,n_customers,R_distance_limit,total_supply,total_demand,seed
+large,60,150,50.0,4697.697155835245,4697.697155835244,42
